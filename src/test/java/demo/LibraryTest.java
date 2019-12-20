@@ -12,7 +12,7 @@ public class LibraryTest {
   @Test
   public void testcarre(){
       Library calc = new Library();
-      assertEquals(calc.carre(8), 64);
+      assertEquals(calc.carre(8), 68);
   }
   @Test
   public void testdivide_y_by_x(){
